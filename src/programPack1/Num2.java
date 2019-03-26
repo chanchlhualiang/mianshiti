@@ -28,7 +28,7 @@ public class Num2 {
         int num2 = -1252222229;
         int num3 = -125222;
         int num4 = -125222;
-        int num5 = -4555;
+        int num5 = -45555;
         int reserveNum = reserve(num3);
         System.out.println(reserveNum);
     }
